@@ -2,6 +2,5 @@
 
 ## Features
 
-### Fizzbuzz
 
 ### Fibonacci Sequence
